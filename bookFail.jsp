@@ -1,0 +1,1 @@
+<h3>Booking is Failed. <a href="bookRegistration.jsp">Click Here</a> to Re-Book again </h3>
